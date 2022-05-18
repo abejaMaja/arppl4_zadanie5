@@ -1,7 +1,5 @@
 package pl.sda.arp4.zadanie5;
 
-import pl.sda.arp4.Sex;
-
 public class Student5 {
     protected String numerIdx;
     protected String name;

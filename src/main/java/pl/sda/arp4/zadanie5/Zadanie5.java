@@ -1,7 +1,5 @@
 package pl.sda.arp4.zadanie5;
 
-import pl.sda.arp4.Sex;
-
 import java.util.ArrayList;
 import java.util.List;
 
